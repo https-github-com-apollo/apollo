@@ -10,5 +10,6 @@ Create Table IF NOT EXISTS FabRecicladora
 Create Table IF NOT EXISTS Rfid
 (
     CodigoRfid INT(10)
-    PRIMARY key(CodigoRfid)
+    TipoMaterial VARCHAR(30)
+    PRIMARY KEY(CodigoRfid)
 )
