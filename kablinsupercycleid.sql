@@ -22,6 +22,10 @@ SET time_zone = "+00:00";
 -- Database: `kablinsupercycleid`
 --
 
+
+CREATE Database kablinsupercycleid;
+USE kablinsupercycleid;
+
 -- --------------------------------------------------------
 
 --
