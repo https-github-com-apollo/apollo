@@ -26,7 +26,7 @@
   <meta name="description" content="">
   
   
-  <title><?php echo $Dados["Nome"];?></title>
+  <title>Painel de controle</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
@@ -101,7 +101,80 @@
                     $Dados = mysqli_fetch_array($Resultado);
                     
                     echo $Dados["QntEmbalagem"];
-                ?></p></h2> <br>
+                ?></p></h2><br>
+
+                <h2 class="mbr-section-title mbr-fonts-style mbr-white mb-3"><p>Quantidade de papelões ondulados: <?php
+                    require_once("conexao.php");
+
+                    $ComandoSQL = "SELECT COUNT(*) as QntPapelOndulado FROM smartembalagem WHERE TipoEmbalagem LIKE 'Papelao ondulado'";
+
+                    $Resultado = mysqli_query($Conex, $ComandoSQL);
+
+                    $Dados = mysqli_fetch_array($Resultado);
+
+                    echo $Dados["QntPapelOndulado"];
+                ?>
+                </p>
+                </h2><br>
+
+                <h2 class="mbr-section-title mbr-fonts-style mbr-white mb-3"><p>Quantidade de papéis cartão: <?php
+                    require_once("conexao.php");
+
+                    $ComandoSQL = "SELECT COUNT(*) as QntPapelOndulado FROM smartembalagem WHERE TipoEmbalagem LIKE 'Papel cartao'";
+
+                    $Resultado = mysqli_query($Conex, $ComandoSQL);
+
+                    $Dados = mysqli_fetch_array($Resultado);
+
+                    echo $Dados["QntPapelOndulado"];
+                ?>
+                </p>
+                </h2><br>
+
+                <h2 class="mbr-section-title mbr-fonts-style mbr-white mb-3"><p>Quantidade de papéis kraft: <?php
+                    require_once("conexao.php");
+
+                    $ComandoSQL = "SELECT COUNT(*) as QntPapelOndulado FROM smartembalagem WHERE TipoEmbalagem LIKE 'Papel kraft'";
+
+                    $Resultado = mysqli_query($Conex, $ComandoSQL);
+
+                    $Dados = mysqli_fetch_array($Resultado);
+
+                    echo $Dados["QntPapelOndulado"];
+                ?>
+                </p>
+                </h2><br>
+
+                <h2 class="mbr-section-title mbr-fonts-style mbr-white mb-3"><p>Quantidade de papéis celulose: <?php
+                    require_once("conexao.php");
+
+                    $ComandoSQL = "SELECT COUNT(*) as QntPapelOndulado FROM smartembalagem WHERE TipoEmbalagem LIKE 'Papel celulose'";
+
+                    $Resultado = mysqli_query($Conex, $ComandoSQL);
+
+                    $Dados = mysqli_fetch_array($Resultado);
+
+                    echo $Dados["QntPapelOndulado"];
+                ?>
+                </p>
+                </h2><br>
+
+                <h2 class="mbr-section-title mbr-fonts-style mbr-white mb-3"><p>Quantidade de sacos industriais: <?php
+                    require_once("conexao.php");
+
+                    $ComandoSQL = "SELECT COUNT(*) as QntPapelOndulado FROM smartembalagem WHERE TipoEmbalagem LIKE 'Saco industrial'";
+
+                    $Resultado = mysqli_query($Conex, $ComandoSQL);
+
+                    $Dados = mysqli_fetch_array($Resultado);
+
+                    echo $Dados["QntPapelOndulado"];
+                ?>
+                </p>
+                </h2><br>
+
+                <hr color="white">
+
                 <h2 class="mbr-section-title mbr-fonts-style mbr-white mb-3"><p>Quantidade de fábricas de reciclagem que adotaram o sistema SuperCycle ID: <?php
                     require_once("conexao.php");
 
@@ -112,8 +185,7 @@
                     $Dados = mysqli_fetch_array($Resultado);
                     
                     echo $Dados["QntFabrica"];
-                ?></p></h2>
-
+                ?></p></h2><br>
             </div>
         </div>
     </div>
