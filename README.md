@@ -2,16 +2,16 @@
 
 ![](src/assets/images/Landpage.PNG)
 
+## Introdução
+A Hacking Rio é uma hackaton, isto é, uma maratona de pogramação de dois dias e meio, no qual várias equipes disputam um determinado prêmio por meio da apresentação de soluções inovadoras, práticas, ageis e, se possível, de baixo custo para algum problema requerido. Além disto, também há um ganho indiscutível de experiências, networks e até novas amizades.  
+
+Neste ano ocorreu nos dias 09, 10 e 11 de outubro de 2020, em meio a uma pandemia, a maior maratona de programação da América Latina, a Hacking Rio online.
+
 ## Premiados
 
 É com grande orgulho e alegria que nós apresentamos a conquista de prata na maratona de programação Hacking Rio 2020 e no quesito sustentabilidade. Agradeçemos a Deus por ter nos dado força e inteligência para vencermos mais esta conquista, além de nos permitir galgar mais um passo no nosso sucesso pessoal e profissional.
 
 ![](src/assets/images/Ft_Premio_HackingRio.jpg)
-
-## Introdução
-A Hacking Rio é uma hackaton, isto é, uma maratona de pogramação de dois dias e meio, no qual várias equipes disputam um determinado prêmio por meio da apresentação de soluções inovadoras, práticas, ageis e, se possível, de baixo custo para algum problema requerido. Além disto, também há um ganho indiscutível de experiências, networks e até novas amizades.  
-
-Neste ano ocorreu nos dias 09, 10 e 11 de outubro de 2020, em meio a uma pandemia, a maior maratona de programação da América Latina, a Hacking Rio online.
 
 ## Nosso grupo
 
