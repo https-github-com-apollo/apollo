@@ -1,5 +1,7 @@
 # SuperCycle ID
 
+![](assets/images/Landpage.PNG)
+
 Um fato muito interessante aconteceu nos dias 09, 10 e 11 de outubro de 2020. Em meio a uma pandemia, ocorreu a maior maratona de programação da América Latina e nós estavamos lá!
 
 ## Nosso grupo
