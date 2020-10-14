@@ -32,6 +32,8 @@ A nossa equipe, apollo solutins, primeiramente, decidiu por um meio mais tecnolo
 ### Uma relação gamificada entre a Klabin e cada centro de reciclagem
 É um fato irrefragável que nenhuma empresa mudaria algo seu a fim de fortalecer uma possível rival. Por conta disto, nós criamos o sistema web SuperCycle ID que pretende ajudar nas parcerias entre a Klabin e pontos de reciclagem a fim de beneficiar a ambos.
 
+![](assets/images/Gamificacao.PNG)
+
 #### O que é o SuperCycle ID?
 
 ![](assets/images/SuperCycle.PNG)
