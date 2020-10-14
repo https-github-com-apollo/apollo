@@ -1,6 +1,6 @@
 # SuperCycle ID
 
-![](assets/images/Landpage.PNG)
+![](src/assets/images/Landpage.PNG)
 
 ## Introdução
 A Hacking Rio é uma hackaton, isto é, uma maratona de pogramação de dois dias e meio, no qual várias equipes disputam um determinado prêmio por meio da apresentação de soluções inovadoras, práticas, ageis e, se possível, de baixo custo para algum problema requerido. Além disto, também há um ganho indiscutível de experiências, networks e até novas amizades.  
@@ -11,9 +11,9 @@ Neste ano ocorreu nos dias 09, 10 e 11 de outubro de 2020, em meio a uma pandemi
 
 Nós, Estevão Naval, Ismael de Azevedo, Davi Pinheiro e Kawan Santana participamos, dentre muitos quesitos, no de sustentabilidade. Diriamos que foi um desafio em tanto, mas também valeu muito a pena. 
 
-![](assets/images/Equipe01.PNG)
+![](src/assets/images/Equipe01.PNG)
 
-![](assets/images/Equipe02.PNG)
+![](src/assets/images/Equipe02.PNG)
 
 Nome do grupo: Apollo Solutions.
 
@@ -30,27 +30,27 @@ A nossa equipe, apollo solutins, primeiramente, decidiu por um meio mais tecnolo
 
 #### O que é a tecnologia RFID?
 
-![](assets/images/TecnologiaRFID.PNG)
+![](src/assets/images/TecnologiaRFID.PNG)
 
 ### Como o RFID ajudará na logística de catalogação?
 
-![](assets/images/LogisticaRFID.PNG)
+![](src/assets/images/LogisticaRFID.PNG)
 
 ### Uma relação gamificada entre a Klabin e cada centro de reciclagem
 É um fato irrefragável que nenhuma empresa mudaria algo seu a fim de fortalecer uma possível rival. Por conta disto, nós criamos o sistema web SuperCycle ID que pretende ajudar nas parcerias entre a Klabin e pontos de reciclagem a fim de beneficiar a ambos.
 
-![](assets/images/Gamificacao.PNG)
+![](src/assets/images/Gamificacao.PNG)
 
 #### O que é o SuperCycle ID?
 
-![](assets/images/SuperCycle.PNG)
+![](src/assets/images/SuperCycle.PNG)
 
 
 ### Como tudo isto ocorrerá?
 
-![](assets/images/Passo01.PNG)
+![](src/assets/images/Passo01.PNG)
 
-![](assets/images/Passo02.PNG)
+![](src/assets/images/Passo02.PNG)
 
 
 
