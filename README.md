@@ -6,7 +6,7 @@
 
 É com grande orgulho e alegria que nós apresentamos a conquista de prata na maratona de programação Hacking Rio 2020 e no quesito sustentabilidade. Agradeçemos a Deus por ter nos dado força e inteligência para vencermos mais esta conquista, além de nos permitir galgar mais um passo no nosso sucesso pessoal e profissional.
 
-![](src/assets/images/Ft_Premio_HackingRio.JPG)
+![](src/assets/images/Ft_Premio_HackingRio.jpg)
 
 ## Introdução
 A Hacking Rio é uma hackaton, isto é, uma maratona de pogramação de dois dias e meio, no qual várias equipes disputam um determinado prêmio por meio da apresentação de soluções inovadoras, práticas, ageis e, se possível, de baixo custo para algum problema requerido. Além disto, também há um ganho indiscutível de experiências, networks e até novas amizades.  
