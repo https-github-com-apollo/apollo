@@ -23,7 +23,7 @@ Nós, Estevão Naval, Ismael de Azevedo, Davi Pinheiro e Kawan Santana participa
 
 Nome do grupo: Apollo Solutions.
 
-## Mas qual foi problema?
+## Qual foi problema?
 
 Em suma, a Klabin, a sponsor da categoria de sustentabilidade, é uma empresa de produção e reciclagem de papel e, estes precisavam de um meio para mensurar a quantidade papel deles que são reciclados, além de um meio para rastrea-los.
 
