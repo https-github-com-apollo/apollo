@@ -23,7 +23,12 @@ Em suma, a Klabin, a sponsor da categoria de sustentabilidade, é uma empresa de
 ### Uso da tecnologia RFID
 A nossa equipe, apollo solutins, primeiramente, decidiu por um meio mais tecnologico de resolver o problema e, para isto, nós utilizamos a tecnologia das tags RFID que estariam embutidas dentro de cada embalagem proveniente da Klabin.
 
+#### O que é a tecnologia RFID?
+
+![](assets/images/TecnologiaRFID.PNG)
+
 ### Uma relação gamificada entre a Klabin e cada centro de reciclagem
+É um fato irrefragável que nenhuma empresa mudaria algo seu a fim de fortalecer uma possível rival. Por conta disto, nós criamos  
 
 
 
