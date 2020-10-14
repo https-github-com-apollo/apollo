@@ -6,6 +6,7 @@ Um fato muito interessante aconteceu nos dias 09, 10 e 11 de outubro de 2020. Em
 
 Nós, Estevão Naval, Ismael de Azevedo, Davi Pinheiro e Kawan Santana participamos, dentre muitos clusters, no de sustentabilidade. Diriamos que foi um desafio em tanto.
 
-(assets/images/)
+[assets/images/Equipe01.png]
+[assets/images/Equipe02.png]
 
 
