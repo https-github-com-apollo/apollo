@@ -2,7 +2,10 @@
 
 ![](assets/images/Landpage.PNG)
 
-Um fato muito interessante aconteceu nos dias 09, 10 e 11 de outubro de 2020. Em meio a uma pandemia, ocorreu a maior maratona de programação da América Latina e nós estavamos lá!
+## Introdução
+A Hacking Rio é uma hackaton, isto é, uma maratona de pogramação de dois dias e meio, no qual várias equipes disputam um determinado prêmio por meio da apresentação de soluções inovadoras, práticas, ageis e, se possível, de baixo custo para algum problema requerido. Além disto, também há um ganho indiscutível de experiências, networks e até novas amizades.  
+
+Neste ano ocorreu nos dias 09, 10 e 11 de outubro de 2020, em meio a uma pandemia, a maior maratona de programação da América Latina, a Hacking Rio online.
 
 ## Nosso grupo
 
