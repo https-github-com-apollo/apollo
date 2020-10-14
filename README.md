@@ -32,6 +32,10 @@ A nossa equipe, apollo solutins, primeiramente, decidiu por um meio mais tecnolo
 
 ![](assets/images/TecnologiaRFID.PNG)
 
+### Como o RFID ajudará na logística de catalogação?
+
+![](assets/images/LogisticaRFID.PNG)
+
 ### Uma relação gamificada entre a Klabin e cada centro de reciclagem
 É um fato irrefragável que nenhuma empresa mudaria algo seu a fim de fortalecer uma possível rival. Por conta disto, nós criamos o sistema web SuperCycle ID que pretende ajudar nas parcerias entre a Klabin e pontos de reciclagem a fim de beneficiar a ambos.
 
