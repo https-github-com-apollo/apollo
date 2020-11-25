@@ -103,6 +103,8 @@
                     echo $Dados["QntEmbalagem"];
                 ?></p></h2><br>
 
+                <hr color="white">
+
                 <h2 class="mbr-section-title mbr-fonts-style mbr-white mb-3"><p>Quantidade de papelões ondulados: <?php
                     require_once("../funcao/conexao.php");
 
@@ -274,7 +276,7 @@
         </div>
     </div>
 </section>
-<script src="../assets/web/assets/jquery/jquery.min.js"></script> <script src="../assets/popper/popper.min.js"></script>  <script src="../assets/tether/tether.min.js"></script>  <script src="../assets/bootstrap/js/bootstrap.min.js"></script>  <script src="../assets/smoothscroll/smooth-scroll.js"></script>  <script src="../assets/dropdown/js/nav-dropdown.js"></script>  <script src="../assets/dropdown/js/navbar-dropdown.js"></script>  <script src="../assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="../assets/viewportchecker/jquery.viewportchecker.js"></script>  <script src="../assets/formstyler/jquery.formstyler.js"></script>  <script src="../assets/formstyler/jquery.formstyler.min.js"></script>  <script src="../assets/datepicker/jquery.datetimepicker.full.js"></script>  <script src="../assets/theme/js/script.js"></script>  
+<script src="../assets/web/assets/jquery/jquery.min.js"></script> <script src="../assets/popper/popper.min.js"></script>  <script src="../assets/tether/tether.min.js"></script>  <script src="../assets/bootstrap/js/bootstrap.min.js"></script>  <script src="../assets/smoothscroll/smooth-scroll.js"></script>  <script src="../assets/dropdown/js/nav-dropdown.js"></script>  <script src="../assets/dropdown/js/navbar-dropdown.js"></script>  <script src="../assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="../assets/viewportchecker/jquery.viewportchecker.js"></script>  <script src="../assets/formstyler/jquery.formstyler.js"></script>  <script src="../assets/formstyler/jquery.formstyler.min.js"></script>  <script src="../assets/datepicker/jquery.datetimepicker.full.js"></script>  <script src="../assets/theme/js/script.js"></script><script src="./funcao/index.js"></script>
   
   
   <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>

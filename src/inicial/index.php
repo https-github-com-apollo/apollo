@@ -117,7 +117,7 @@
                 <div class="card-wrapper">
                     <div class="card-box align-center">
                         <h4 class="card-title mbr-fonts-style align-center mb-4 display-1"><strong>O que é a tecnologia RFID?</strong></h4>
-                        <p class="mbr-text mbr-fonts-style mb-4 display-7">Como o nome diz, RFID (Radio Frequency IDentification) ou identificação por radiofrequência é um método de identificação automática através de ondas de rádio. Este, resumindo, é dividido entre a tag RF, que possui o circuito com a identificaçõa, o leitor, que identificará a tag e o controlador, que administrará os dados dos leitores. Com isto, pode-se registrar o objeto em que a tag está embutida de maneira rápida e fácil.</p>
+                        <p class="mbr-text mbr-fonts-style mb-4 display-7">Como o nome diz, RFID (Radio Frequency IDentification) ou identificação por radiofrequência é um método de identificação automática através de ondas de rádio. Este, resumindo, é dividido entre a tag RF, que possui o circuito com a identificação, o leitor, que identificará a tag e o controlador, que administrará os dados dos leitores. Com isto, pode-se registrar o objeto em que a tag está embutida de maneira rápida e fácil.</p>
                     </div>
                 </div>
             </div>
@@ -331,124 +331,128 @@
 <section class="team2 cid-scF57lUbTH" style="background-color:rgb(37, 217, 62)" xmlns="http://www.w3.org/1999/html" id="team2-x">
     
     
-    <div class="container text-white">
-        <h1 class="mbr-section-title mbr-fonts-style mbr-black mb-3 display-1 text-white align-center" id="SobreNos"><strong>Nossa equipe</strong></h1>
-        <div class="card">
-            <div class="card-wrapper">
-                <div class="row align-items-center">
-                    <div class="col-12 col-md-4">
-                        <div class="image-wrapper">
-                            <img src="../assets/images/Davi.jpeg" class="rounded-circle border border-light" alt="">
+    <div class="container text-light">
+        <h1 class="mbr-section-title mbr-fonts-style mbr-black mb-3 display-1 text-white align-center" id="SobreNos"><strong>Nossa equipe</strong></h1><br>
+        <div class="row">
+            <div class="col-6">
+                <div class="card rounded-pill" style="background-color: rgb(38, 168, 56);">
+                    <div class="card-wrapper">
+                        <div class="row align-items-center">
+                            <div class="col-12 col-md-4">
+                                <div class="image-wrapper">
+                                    <img src="../assets/images/Davi.jpeg" class="rounded-circle border border-dark" alt="">
+                                </div>
+                            </div>
+                            <div class="col-12 col-md">
+                                <div class="card-box">
+                                    <h5 class="card-title mbr-fonts-style m-0 display-5"><strong>Davi Pinheiro</strong><strong><br></strong></h5>
+                                    <h6 class="card-subtitle mbr-fonts-style mb-3 display-4"><strong>Químico</strong></h6>
+                                    
+                                    <div class="social-row display-7">
+                                        <div class="soc-item">
+                                            <a href="https://www.linkedin.com/in/davi-pinheiro-6a2557192/" target="_blank">
+                                                <span class="mbr-iconfont socicon-linkedin socicon"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md">
-                        <div class="card-box">
-                            <h5 class="card-title mbr-fonts-style m-0 display-5"><strong>Davi Pinheiro</strong><strong><br></strong></h5>
-                            <h6 class="card-subtitle mbr-fonts-style mb-3 display-4"><strong>Químico</strong></h6>
-                            
-                            <div class="social-row display-7">
-                                <div class="soc-item">
-                                    <a href="https://www.linkedin.com/in/davi-pinheiro-6a2557192/" target="_blank">
-                                        <span class="mbr-iconfont socicon-linkedin socicon"></span>
-                                    </a>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card rounded-pill" style="background-color: rgb(38, 168, 56);">
+                    <div class="card-wrapper">
+                        <div class="row align-items-center">
+                            <div class="col-12 col-md-4">
+                                <div class="image-wrapper">
+                                    <img src="../assets/images/Ismael.jpeg" class="rounded-circle border border-dark" alt="">
                                 </div>
-                                
-                               
-                                
-                                
+                            </div>
+                            <div class="col-12 col-md">
+                                <div class="card-box">
+                                    <h5 class="card-title mbr-fonts-style m-0 display-5"><strong>Ismael de Azevedo</strong></h5>
+                                    <h6 class="card-subtitle mbr-fonts-style mb-3 display-4"><strong>programador</strong></h6>
+                                    
+                                    <div class="social-row display-7">
+                                        <div class="soc-item">
+                                            <a href="https://www.linkedin.com/in/ismael-azevedo-78183717b/" target="_blank">
+                                                <span class="mbr-iconfont socicon-linkedin socicon"></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <br><br><br>
-        <div class="card">
-            <div class="card-wrapper">
-                <div class="row align-items-center">
-                    <div class="col-12 col-md-4">
-                        <div class="image-wrapper">
-                            <img src="../assets/images/Ismael.jpeg" class="rounded-circle border border-light" alt="">
+
+        <br><br>
+
+        <div class="row">
+            <div class="col-6">
+            <div class="card rounded-pill" style="background-color: rgb(38, 168, 56);">
+                <div class="card-wrapper">
+                    <div class="row align-items-center">
+                        <div class="col-12 col-md-4">
+                            <div class="image-wrapper">
+                                <img src="../assets/images/Estevao.jpeg" class="rounded-circle  border border-dark" alt="">
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-12 col-md">
-                        <div class="card-box">
-                            <h5 class="card-title mbr-fonts-style m-0 display-5"><strong>Ismael de Azevedo</strong></h5>
-                            <h6 class="card-subtitle mbr-fonts-style mb-3 display-4"><strong>programador</strong></h6>
-                            
-                            <div class="social-row display-7">
-                                <div class="soc-item">
-                                    <a href="https://www.linkedin.com/in/ismael-azevedo-78183717b/" target="_blank">
-                                        <span class="mbr-iconfont socicon-linkedin socicon" style="fill:rgb(37, 217, 62);"></span>
-                                    </a>
+                        <div class="col-12 col-md">
+                            <div class="card-box">
+                                <h5 class="card-title mbr-fonts-style m-0 display-5"><strong>Estevão Naval</strong></h5>
+                                <h6 class="card-subtitle mbr-fonts-style mb-3 display-4"><strong>programador</strong></h6>
+                                
+                                <div class="social-row display-7">
+                                    <div class="soc-item">
+                                        <a href="https://www.linkedin.com/in/estev%C3%A3o-n-4a8587127/" target="_blank">
+                                            <span class="mbr-iconfont socicon-linkedin socicon"></span>
+                                        </a>
+                                    </div>
+                                    
                                 </div>
-                                
-                                
-                                
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <br><br><br>
-        <div class="card">
-            <div class="card-wrapper">
-                <div class="row align-items-center">
-                    <div class="col-12 col-md-4">
-                        <div class="image-wrapper">
-                            <img src="../assets/images/Estevao.jpeg" class="rounded-circle  border border-light" alt="">
+            </div>
+            <div class="col-6">
+                <div class="card rounded-pill" style="background-color: rgb(38, 168, 56);">
+                <div class="card-wrapper">
+                    <div class="row align-items-center">
+                        <div class="col-12 col-md-4">
+                            <div class="image-wrapper">
+                                <img src="../assets/images/Kawan.jpeg" class="rounded-circle border border-dark" alt="">
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-12 col-md">
-                        <div class="card-box">
-                            <h5 class="card-title mbr-fonts-style m-0 display-5"><strong>Estevão Naval</strong></h5>
-                            <h6 class="card-subtitle mbr-fonts-style mb-3 display-4"><strong>programador</strong></h6>
-                            
-                            <div class="social-row display-7">
-                                <div class="soc-item">
-                                    <a href="https://www.linkedin.com/in/estev%C3%A3o-n-4a8587127/" target="_blank">
-                                        <span class="mbr-iconfont socicon-linkedin socicon"></span>
-                                    </a>
-                                </div>
+                        <div class="col-12 col-md">
+                            <div class="card-box">
+                                <h5 class="card-title mbr-fonts-style m-0 display-5"><strong>Kawan Santana</strong></h5>
+                                <h6 class="card-subtitle mbr-fonts-style mb-3 display-4"><strong>programador</strong></h6>
                                 
+                                <div class="social-row display-7">
+                                    <div class="soc-item">
+                                        <a href="https://www.linkedin.com/in/kawan-santana-1a4091179/" target="_blank">
+                                            <span class="mbr-iconfont socicon-linkedin socicon"></span>
+                                        </a>
+                                    </div>
+                                    
+                                    
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <br><br><br>
-        <div class="card">
-            <div class="card-wrapper">
-                <div class="row align-items-center">
-                    <div class="col-12 col-md-4">
-                        <div class="image-wrapper">
-                            <img src="../assets/images/Kawan.jpeg" class="rounded-circle border border-light" alt="">
-                        </div>
-                    </div>
-                    <div class="col-12 col-md">
-                        <div class="card-box">
-                            <h5 class="card-title mbr-fonts-style m-0 display-5"><strong>Kawan Santana</strong></h5>
-                            <h6 class="card-subtitle mbr-fonts-style mb-3 display-4"><strong>programador</strong></h6>
-                            
-                            <div class="social-row display-7">
-                                <div class="soc-item">
-                                    <a href="https://www.linkedin.com/in/kawan-santana-1a4091179/" target="_blank">
-                                        <span class="mbr-iconfont socicon-linkedin socicon"></span>
-                                    </a>
-                                </div>
-                                
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
-        
     </div>
-    <br><br><br>
+    <br>
 </section>
 
 <section class="footer1 cid-scXH7DFQhu" once="footers" id="footer1-4">
